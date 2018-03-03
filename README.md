@@ -1,4 +1,4 @@
-Simple Weather Forecaster using React
+## Simple Weather Forecaster using React library
 
 Got weather data from https://openweathermap.org/ 
 
