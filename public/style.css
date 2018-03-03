@@ -1,0 +1,28 @@
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+.input-group {
+	margin: 50px 50px;
+}
+
+svg {
+	height: 150px;
+}
+
+/*finds the first td inside of each row and find the first td, and its child div which is the google map*/
+td:first-of-type, td:first-of-type > div {
+	height: 200px;
+	width: 250px;
+}
+
+h1 {
+	font-size: 75px !important;
+	text-align: center !important;
+	margin-top: 50px !important;
+}
+
+label {
+	color: red;
+}
